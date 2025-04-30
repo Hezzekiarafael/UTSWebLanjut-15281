@@ -23,7 +23,7 @@ class AuthController extends BaseController
         [
             'username' => 'Rafael', // Username user biasa
             'email' => 'user@pakhezze.com', // Email user
-            'password' => '$2a$12$ZnLK0jJQJOxakdexVNc.POZJClA.g7Cel/KDBukYy7HndTMM21OZq', // hash dari password "123"
+            'password' => '$2a$12$ZnLK0jJQJOxakdexVNc.POZJClA.g7Cel/KDBukYy7HndTMM21OZq', // hash dari password "1234"
             'role' => 'user',
             'id' => 2
         ]
